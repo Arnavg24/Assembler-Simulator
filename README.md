@@ -1,5 +1,5 @@
 # Custom Assembler Simulator
-Project for CSE112 (Computer organnisation). Making a Custom Assemler Simulator for a given ISA.
+Project for CSE112 (Computer organnisation). Making a Custom Assembler Simulator for a given ISA.
 Each Instruction is 16 bits long
 ## Instruction Set (Bonus)
 
